@@ -1,4 +1,4 @@
-com.example.jewel
+com.example.flutter_demo
 attr activityAction
 attr activityName
 attr alpha

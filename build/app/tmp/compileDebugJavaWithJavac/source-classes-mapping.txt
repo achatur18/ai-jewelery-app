@@ -1,4 +1,4 @@
 io/flutter/plugins/GeneratedPluginRegistrant.java
  io.flutter.plugins.GeneratedPluginRegistrant
-com/example/jewel/BuildConfig.java
- com.example.jewel.BuildConfig
+com/example/flutter_demo/BuildConfig.java
+ com.example.flutter_demo.BuildConfig

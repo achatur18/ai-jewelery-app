@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.jewel",
+  "applicationId": "com.example.flutter_demo",
   "variantName": "debug",
   "elements": [
     {

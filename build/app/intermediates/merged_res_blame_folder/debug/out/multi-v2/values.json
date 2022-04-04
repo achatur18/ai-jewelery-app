@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhaychaturvedi/Desktop/projects/jewel/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/abhaychaturvedi/Desktop/projects/flutter_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/abhaychaturvedi/Desktop/projects/jewel/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/abhaychaturvedi/Desktop/projects/flutter_demo/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

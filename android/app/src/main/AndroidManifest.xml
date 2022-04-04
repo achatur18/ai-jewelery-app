@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jewel">
+    package="com.example.flutter_demo">
    <application
-        android:label="jewel"
+        android:label="flutter_demo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
